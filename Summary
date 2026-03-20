@@ -1,0 +1,15 @@
+Methodology
+In this project, I analyzed how market sentiment (Fear, Greed, and Neutral) affects trader performance. I started by cleaning both datasets and aligning them on a daily basis so they could be compared properly. After that, I created useful metrics like daily profit/loss (PnL), win rate, number of trades, and average trade size.
+Once the data was ready, I compared trader performance and behavior across different sentiment conditions. I also used simple visualizations like boxplots and bar charts to better understand patterns and trends in the data.
+
+Key Insights
+The analysis showed that traders generally perform more consistently during Greed periods, with higher median profits and slightly better win rates. However, the biggest losses also occur during Greed, which means higher rewards come with higher risk.
+It was also observed that trading activity is highest during Greed, suggesting that traders are more active and confident when the market is positive. On the other hand, Neutral periods show lower activity and weaker performance.
+Another important finding is that the profit/loss distribution is highly skewed, meaning a small number of trades have a large impact on overall results.
+
+Strategy Recommendations
+Based on these findings, traders should be more cautious during Greed periods. Even though profits are higher, the risk is also significantly higher, so proper risk management is important.
+Instead of chasing big profits, traders should focus on consistent and smaller gains over time. This approach is more reliable in the long run.
+It can be beneficial to trade more actively during Greed periods, but during Fear or uncertain conditions, traders should be more selective and avoid unnecessary trades.
+Overall, adjusting trading strategies based on market sentiment can help improve decision-making and reduce potential losses.
+
